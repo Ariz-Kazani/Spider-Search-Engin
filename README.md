@@ -1,10 +1,11 @@
+> [!WARNING]
+> This project was completed as part of COMP1405z and COMP1406z final projects, as a result code **_cannot be displayed publicly_** due to the possibility of academic integrity violations. Contact [Ariz Kazani](https://github.com/Ariz-Kazani) or [Kishan Rajagunathas](https://github.com/Kish170) for access.
+
 # Web Crawler & Search Engine
 
 ## Introduction
 
 This project implements a web crawler and search engine in Java (with a version also in python that does not have a GUI). The crawler navigates the web starting from a seed URL, collecting data from various web pages, and storing the information necessary for search and ranking purposes. The search engine component processes user queries, providing relevant search results based on the collected data using various PageRank algorithms.
-
-**_!!! DISCLAIMER !!!_** this project was completed as part of COMP1405z and COMP1406z final projects, as a result code **_cannot be displayed publicly_** due to the possibility of academic integrity violations. Contact [Ariz Kazani](https://github.com/Ariz-Kazani) or [Kishan Rajagunathas](https://github.com/Kish170) for access.
 
 ## Installation
 
